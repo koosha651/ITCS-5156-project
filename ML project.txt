@@ -1,2 +1,6 @@
 Koosha Sharifani
 
+
+Repository for ITCS 5156 (Machine Learning) Course Project
+
+Predictive Model for Video Game Sales
